@@ -2148,18 +2148,18 @@ data-urls@^3.0.2:
     whatwg-mimetype "^3.0.0"
     whatwg-url "^11.0.0"
 
-datatables.net-dt@^1.13.1:
-  version "1.13.1"
-  resolved "https://registry.yarnpkg.com/datatables.net-dt/-/datatables.net-dt-1.13.1.tgz#c3e31c8ae85dabe6895e740f6fbe0ed2e8276c39"
-  integrity sha512-J5ul/Y+Hpyfh8y02DKwgbmUij4e4R6bstnx4iYvY7FV2b2XuCP0Qow/Uuc0gtxDHSz2bTsoeRHqg4teoGftVDg==
+datatables.net-dt@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/datatables.net-dt/-/datatables.net-dt-2.0.6.tgz#5a29d8b69f09c4ca11af9728627b0f4ef2084428"
+  integrity sha512-vhTW0PQac1KSs4SjItMDi11meLIW7tWCLO/NP9EkNqVbqvOHkLNOOjFFYclzVOkA9nXPdiUk4svK7Bx5w9JFVw==
   dependencies:
-    datatables.net ">=1.12.1"
+    datatables.net "2.0.6"
     jquery ">=1.7"
 
-datatables.net@>=1.12.1:
-  version "1.12.1"
-  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.12.1.tgz#3e625e49a3341f605b0efb519fae94e37b278f24"
-  integrity sha512-e6XAMUoV41JdQPS/r9YRfRcmTPcCVvyZbWI+xog1Zg+kjVliMQbEkvWK5XFItmi64Cvwg+IqsZbTUJ1KSY3umA==
+datatables.net@2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-2.0.6.tgz#4f7d0658e397fea35a5195c19709d25850c6d19d"
+  integrity sha512-p9hJAwBZ2svrL8sbJPsy58ERsRHOL6+eshvfYHmqV2AGgtR/2GUzFQjPlCGXcUOoXlOhymMk2g4FSJluvlqGyg==
   dependencies:
     jquery ">=1.7"
 
